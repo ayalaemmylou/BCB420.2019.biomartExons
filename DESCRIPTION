@@ -1,0 +1,18 @@
+Package: BCB420.2019.biomartExons
+Type: Package
+Title: Biomart Exons Data Project
+Version: 1.1.1
+Date: 2019-02-04
+Authors@R: c(
+    person("Emily", "Ayala", email = "emily.ayala@mail.utoronto.ca", role = c("aut", "cre"), comment = "I have no ORCID number")
+    )
+Description: An RStudio project built off of rpt, written by Prof. Boris Stiepe.
+            Written for the BCB420 course at the University of Toronto.
+            Import biomart exons based on HuGO gene symbols.  For each gene,
+            return a set of chromosomal start/end coordinates for the principal isoform.
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests:
+    testthat
+RoxygenNote: 6.1.1
