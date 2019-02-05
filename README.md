@@ -17,8 +17,7 @@
 2. Details ...<br/>
 3. Develop<br/>
 4. Notes<br/>
-5. Further reading<br/>
-7. Acknowledgements<br/>
+5. Acknowledgements<br/>
 <!-- TOCabove -->
 
 ----
@@ -53,7 +52,7 @@
 
 &nbsp;
 
-# 8 Acknowledgements
+# 5 Acknowledgements
 
 
 
